@@ -17582,7 +17582,7 @@ const NS = "/assets/wojak-face-BrJE1BV3.png",
         }),
       }),
     });
-  },
+  }, 
   jS = "/assets/dexscreener-new-Bl248k3J.png",
   OS = "/assets/solana-logo-DYviJvuA.png",
   ff = "0x84d43b549d191783e7135e9d4CcD81d779Ad68E1",

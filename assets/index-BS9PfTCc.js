@@ -17679,7 +17679,7 @@ const NS = "/assets/wojak-face-BrJE1BV3.png",
               children: [
                 y.jsx("span", {
                   className:
-                    "px-4 py-2.5 text-yellow/70 font-mono text-xs md:text-sm truncate select-all",
+                    "px-4 py-2.5 text-yellow font-mono text-xs md:text-sm truncate select-all",
                   children: ff,
                 }),
                 y.jsx("button", {

@@ -17571,7 +17571,7 @@ const NS = "/assets/wojak-face-BrJE1BV3.png",
               ],
             }),
             y.jsx("a", {
-              href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
+              href: "https://pancakeswap.finance/swap?outputCurrency=0x84d43b549d191783e7135e9d4CcD81d779Ad68E1",
               target: "_blank",
               rel: "noopener noreferrer",
               className:
@@ -17585,7 +17585,7 @@ const NS = "/assets/wojak-face-BrJE1BV3.png",
   },
   jS = "/assets/dexscreener-new-Bl248k3J.png",
   OS = "/assets/solana-logo-DYviJvuA.png",
-  ff = "0xcomingsoon",
+  ff = "0x84d43b549d191783e7135e9d4CcD81d779Ad68E1",
   AS = () => {
     const [e, t] = x.useState(!1),
       [n, r] = x.useState(!1),
@@ -17638,7 +17638,7 @@ const NS = "/assets/wojak-face-BrJE1BV3.png",
               className: "flex justify-center items-center flex-wrap gap-4",
               children: [
                 y.jsxs("a", {
-                  href: "https://dexscreener.com/bsc/0xcomingsoon",
+                  href: "https://dexscreener.com/bsc/0x84d43b549d191783e7135e9d4CcD81d779Ad68E1",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   className: "btn-wojak-yellow flex items-center gap-2",
@@ -17655,7 +17655,7 @@ const NS = "/assets/wojak-face-BrJE1BV3.png",
                   ],
                 }),
                 y.jsxs("a", {
-                  href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
+                  href: "https://pancakeswap.finance/swap?outputCurrency=0x84d43b549d191783e7135e9d4CcD81d779Ad68E1",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   className: "btn-wojak-light flex items-center gap-2",
@@ -17799,7 +17799,7 @@ const NS = "/assets/wojak-face-BrJE1BV3.png",
                     className: "flex flex-wrap items-center gap-4",
                     children: [
                       y.jsxs("a", {
-                        href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
+                        href: "https://pancakeswap.finance/swap?outputCurrency=0x84d43b549d191783e7135e9d4CcD81d779Ad68E1",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "btn-wojak-light flex items-center gap-2",
@@ -17911,7 +17911,7 @@ const NS = "/assets/wojak-face-BrJE1BV3.png",
                     className: "flex flex-wrap items-center gap-4",
                     children: [
                       y.jsxs("a", {
-                        href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
+                        href: "https://pancakeswap.finance/swap?outputCurrency=0x84d43b549d191783e7135e9d4CcD81d779Ad68E1",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "btn-wojak-light flex items-center gap-2",
@@ -17955,7 +17955,7 @@ const NS = "/assets/wojak-face-BrJE1BV3.png",
                             }),
                           }),
                           y.jsx("a", {
-                            href: "https://gmgn.ai/bsc/token/0xcomingsoon",
+                            href: "https://gmgn.ai/bsc/token/0x84d43b549d191783e7135e9d4CcD81d779Ad68E1",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -18157,7 +18157,7 @@ const NS = "/assets/wojak-face-BrJE1BV3.png",
                     "Visit",
                     " ",
                     y.jsx("a", {
-                      href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
+                      href: "https://pancakeswap.finance/swap?outputCurrency=0x84d43b549d191783e7135e9d4CcD81d779Ad68E1",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className:

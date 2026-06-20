@@ -17578,7 +17578,7 @@ const NS = "/assets/wojak-face-BrJE1BV3.png",
                 "bg-yellow text-white font-semibold px-5 py-2 rounded-full hover:bg-neutral-200 transition-all",
               children: "Buy $BOJAK",
             }),
-          ],
+          ], 
         }),
       }),
     });

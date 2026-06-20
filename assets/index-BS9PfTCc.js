@@ -17579,7 +17579,7 @@ const NS = "/assets/wojak-face-BrJE1BV3.png",
               children: "Buy $BOJAK",
             }),
           ], 
-        }),
+        }), 
       }),
     });
   }, 
